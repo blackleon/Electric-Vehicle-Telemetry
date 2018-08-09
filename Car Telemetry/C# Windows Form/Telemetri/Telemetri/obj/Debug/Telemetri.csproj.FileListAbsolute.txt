@@ -1,0 +1,10 @@
+C:\Users\blackleon\source\repos\Telemetri\Telemetri\obj\Debug\Telemetri.csprojAssemblyReference.cache
+C:\Users\blackleon\source\repos\Telemetri\Telemetri\obj\Debug\Telemetri.Form1.resources
+C:\Users\blackleon\source\repos\Telemetri\Telemetri\obj\Debug\Telemetri.Properties.Resources.resources
+C:\Users\blackleon\source\repos\Telemetri\Telemetri\obj\Debug\Telemetri.csproj.GenerateResource.cache
+C:\Users\blackleon\source\repos\Telemetri\Telemetri\obj\Debug\Telemetri.csproj.CoreCompileInputs.cache
+C:\Users\blackleon\source\repos\Telemetri\Telemetri\bin\Debug\Telemetri.exe.config
+C:\Users\blackleon\source\repos\Telemetri\Telemetri\bin\Debug\Telemetri.exe
+C:\Users\blackleon\source\repos\Telemetri\Telemetri\bin\Debug\Telemetri.pdb
+C:\Users\blackleon\source\repos\Telemetri\Telemetri\obj\Debug\Telemetri.exe
+C:\Users\blackleon\source\repos\Telemetri\Telemetri\obj\Debug\Telemetri.pdb
